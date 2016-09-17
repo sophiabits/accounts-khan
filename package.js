@@ -2,7 +2,8 @@ Package.describe({
   name: 'qqqry:accounts-khan',
   version: '1.0.0',
   summary: 'Login service for Khan Academy accounts',
-  git: 'https://github.com/zwjcarter/accounts-khan.git'
+  git: 'https://github.com/zwjcarter/accounts-khan.git',
+  documentation: null
 });
 
 Package.onUse(function(api) {
